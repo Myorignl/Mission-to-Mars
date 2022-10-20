@@ -1,5 +1,5 @@
 # Mission-to-Mars
-The objjective of this project was to learn how to scrape items from a webpage and add them to a different page in a new format. 
+The objective of this project was to learn how to scrape items from a webpage and add them to a different page in a new format. 
 
 I was able to get the immages requested 
 
